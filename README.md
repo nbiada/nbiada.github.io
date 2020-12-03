@@ -1,5 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Nicola Biada GitHub Pages
 
+Published pages:
+
+- [Blazor Enterprise](https://nbiada.github.io/course_blazorenterprise/)
+
+---
+
+## _Original README_
 You can use the [editor on GitHub](https://github.com/nbiada/nbiada.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
